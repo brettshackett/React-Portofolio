@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60c50173.css",
+    "main.js": "/static/js/main.a8c0d140.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/family.jpeg": "/static/media/family.4baee0a6746a9283c23c.jpeg",
+    "static/media/photo-port.jpg": "/static/media/photo-port.7392c172440ac430d5d2.jpg",
+    "static/media/run-buddy.jpg": "/static/media/run-buddy.5336663fa2c10805af9d.jpg",
+    "static/media/Resume.docx.pdf": "/static/media/Resume.docx.91443260927c0e0ee444.pdf",
+    "static/media/weather-dashboard-image.png": "/static/media/weather-dashboard-image.23797370ef5517d07799.png",
+    "static/media/budget-tracker-image.png": "/static/media/budget-tracker-image.58cb45d09439671728e0.png",
+    "static/media/payup.png": "/static/media/payup.30384d0465d3ff7502bb.png",
+    "static/media/password-generator-image.png": "/static/media/password-generator-image.989cc2dfb9156017c12d.png",
+    "index.html": "/index.html",
+    "main.60c50173.css.map": "/static/css/main.60c50173.css.map",
+    "main.a8c0d140.js.map": "/static/js/main.a8c0d140.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60c50173.css",
+    "static/js/main.a8c0d140.js"
+  ]
+}
