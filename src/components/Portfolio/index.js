@@ -4,6 +4,15 @@ import Project from '../Project';
 function Portfolio() {
 	const projects = [
 		{
+			name: 'Fit and Track',
+			description: 'A MERN application that allows a user to track everything from workout plans to meal plans. The user can track food and water intake, as well as what workouts were completed and on what dates.',
+			image: "fit_track.png",
+			technologies: ['React', 'GraphQL', 'Mongoose', 'Express', 'Stripe',
+		],
+			github: "https://github.com/Anisha-C/Fit-and-Track",
+			deployed: ""
+		},
+		{
 			name: 'Run Buddy',
 			description:
 				'This project was the first of many that was an introduction to the front-end technologies of HTML and CSS. A website that offers fitness training services.',
